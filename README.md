@@ -37,12 +37,7 @@ To get the 2nd page, we add &page=2 to the end of the API request like bellow : 
 
 https://api.github.com/search/repositories?q=created:>2017-10-22&sort=stars&order=desc&page=2 <br>
 
-Using Retrofit Library, it is easy to do that by adding the 'page' parameter to the QueryMap like bellow : <br>
-
-![3](https://)
-
-<strong>currentPage</strong> is an incrementing variable according to every load
-
+<br>
 
 
 <h2>ScreenShot</h2>
