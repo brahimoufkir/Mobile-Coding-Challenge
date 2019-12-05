@@ -44,6 +44,6 @@ https://api.github.com/search/repositories?q=created:>2017-10-22&sort=stars&orde
 
 clone the repository's link to your android studio like bellow : 
 
-![1](https://)
+![1](https://github.com/brahimoufkir/Mobile-Coding-Challenge/blob/master/Screen2.PNG)
 
 
