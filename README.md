@@ -11,7 +11,7 @@ JSON Data is being fetched directly from the Github API  using <strong>Retrofit<
 - Numbers of stars for the repo.<br>
 - Username and avatar of the owner.<br>
 - Pagination to show more result when Scrolling .<br>
-<strong>Getting data from the server using Github API :</strong><br>
+
 
 <h2>Open source API used :</h2> <br>
 
@@ -23,13 +23,10 @@ This library makes downloading JSON or XML data from a web API fairly straightfo
 - We are using RecyclerView to Display data, this component is more powerfull then a ListView<br>
 
 
-This is how the result looks like : <br>
-`
-![capture](https://) 
-`
+
 Rows structure is being like bellow : <br>
 
-![row-explained](https://user-images.githubusercontent.com/4353553/35209538-7c91149a-ff46-11e7-9bb0-e300dd144110.png)
+![row-explained](https://)
 ]()
 
 <h2> Pagination explained : </h2>
