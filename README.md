@@ -38,7 +38,7 @@ https://api.github.com/search/repositories?q=created:>2017-10-22&sort=stars&orde
 
 <h2>ScreenShot</h2>
 
-![gif](https://)
+![gif](https://github.com/brahimoufkir/Mobile-Coding-Challenge/blob/master/Screen1.jpg)
 
 <h2> How to use this project </h2>
 
