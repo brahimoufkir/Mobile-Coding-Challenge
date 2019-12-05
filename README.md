@@ -24,10 +24,6 @@ This library makes downloading JSON or XML data from a web API fairly straightfo
 
 
 
-Rows structure is being like bellow : <br>
-
-![row-explained](https://)
-]()
 
 <h2> Pagination explained : </h2>
 
