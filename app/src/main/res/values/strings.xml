@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Mobile Coding Challenge</string>
+    <string name="name">name</string>
+    <string name="description">description</string>
+    <string name="username">username</string>
+    <string name="_5_0">5.0</string>
+    <string name="todo">TODO</string>
+
 </resources>
